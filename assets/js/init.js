@@ -34,7 +34,9 @@ if (!ls.getItem(HABIT_KEY)) {
                 target: 10,
                 image: "food.svg",
                 days: [
-                    { comment: "Výborně" }
+                    { comment: "Výborně" },
+                    { comment: "Výborně 2" },
+                    { comment: "Výborně 3" }
                 ]
             },
             {

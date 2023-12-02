@@ -41,3 +41,4 @@ window.onload = function () {
 
 
 // TODO : сделать значение progressBar при первой отрисовке
+// TODO : последняя кнопка в меню ADD
