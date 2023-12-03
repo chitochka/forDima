@@ -192,6 +192,10 @@ body {
   background: rgb(80, 81, 249);
 }
 
+ul.records {
+  width: 100%;
+  padding: 0;
+}
 
 .record {
   width: 100%;
