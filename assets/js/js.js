@@ -26,6 +26,7 @@ window.onload = function () {
              }
             renderContent(element.dataset.id)
         }
+        document.querySelector('.aside-menu').children[0].click() // zagluwko_O  ||  TODO : сделать значение progressBar при первой отрисовке
     }
 
 
@@ -68,5 +69,5 @@ window.onload = function () {
 
 
 
-// TODO : сделать значение progressBar при первой отрисовке
+
 // TODO : последняя кнопка в меню ADD
